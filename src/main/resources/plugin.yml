@@ -1,0 +1,9 @@
+name: FakePlayers
+author: ExpDev
+version: 1.0-SNAPSHOT
+main: com.github.expdev07
+description: A plugin to modify amount of online players
+depends: [ProtocolLib]
+commands:
+  setplayers:
+    description: Sets the amount of fake players online
